@@ -160,6 +160,12 @@ img {
     padding: 0 10px 10px 10px;
     border: 1px solid var(--color-gray);
   }
+
+  .user {
+    margin-top: -21%;
+    margin-left: -3.1%;
+    margin-right: -3.1%;
+  }
   .nav-menu {
     position: fixed;
     flex-direction: row;
